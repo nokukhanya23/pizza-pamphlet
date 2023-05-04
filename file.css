@@ -10,26 +10,9 @@ body{
     flex: 1;
 }
 .section-1{background-color: mediumturquoise;}
-.cat-list{
 
-    background-color: aqua;
-    border-radius: 1em;
-    border: 2px solid; 
-    padding: 1em;
-    margin: 0.5em;
-    flex: 1;
-}
 .section-2{background-color:mediumpurple;}
 
-.cat-things{
-
-    background-color: aqua;
-    border-radius: 1em;
-    border: 2px solid; 
-    padding: 1em;
-    margin: 0.5em;
-    flex: 1;
-}
 .section-3{background-color: mediumspringgreen;}
 .footer{
 
